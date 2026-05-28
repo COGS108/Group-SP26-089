@@ -190,4 +190,6 @@ data/*.SQ*
 data/*/*.SQ*
 
 # Added pkl to the data formats to ignore
+data/*.pkl
+data/*/*.pkl
 .pkl
